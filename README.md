@@ -1,7 +1,7 @@
 
 Content of this repo
 ==================
-This is repository containing the code I used to generate an entry for Emteq 2019 ActivityRecognition contest. The repo contains following files:
+This is a repository containing the code I used to generate an entry for Emteq 2019 ActivityRecognition contest. The repo contains following files:
 
 1. cnn_networks.ipynb - actual file that I used for the contest; contains convolutional neural network approach;
 2. rnn_networks.ipnyb - contains the other approach I have tested - with recurrent neural networks;
@@ -17,7 +17,7 @@ System description
 Brief overview
 --------------
 
-Whole system has been implemented in Python and scipy stack together with keras library has been used. Data from all three sets 1-3 has been used for training. The proposed classifier consists of 10 trained neural networks build with keras and final solution has been obtained taking into account all of the networks answers. Details of each main step has been described in the following sections.
+Whole system has been implemented in Python and scipy stack together with keras library. Data from all three sets 1-3 has been used for training. The proposed classifier consists of 10 trained neural networks built with keras and final solution has been obtained taking into account all of the networks answers. Details of each main step has been described in the following sections.
 
 Data preparation
 ----------------
