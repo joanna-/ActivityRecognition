@@ -1,3 +1,16 @@
+
+Content of this repo
+==================
+This is repository containing the code I used to generate an entry for Emteq 2019 ActivityRecognition contest. The repo contains following files:
+
+1. cnn_networks.ipynb - actual file that I used for the contest; contains convolutional neural network approach;
+2. rnn_networks.ipnyb - contains the other approach I have tested - with recurrent neural networks;
+3. simple_networks - file constains very simple network architecture, with fully connected layers;
+4. /models - directory with serialized models that can be used as examples, including the one I used for contest.
+
+The dataset for the emteq 2019 activity recognition challenge is available here (www.emteq.net).
+To implement my models I gained knowledge from and used some code samples from https://machinelearningmastery.com/ (especially all materials under https://machinelearningmastery.com/deep-learning-models-for-human-activity-recognition/).
+
 System description
 ==================
 
